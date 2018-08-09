@@ -1,0 +1,17 @@
+.myimage{
+    width:30%;
+}
+.nav ul{
+    list-style: none;
+text-align:left;
+}
+.nav li{
+    display: inline-block;
+    padding:  30px;
+    font-size:215%
+}
+p{font-family: 'Arvo', serif;}
+body{background-color:#4BFFFF;
+}
+
+
